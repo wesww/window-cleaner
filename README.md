@@ -20,3 +20,4 @@ Download a playable build for Mac or Windows
    - Download Unity3D from unity3d.com
    - Download this project
    - Launch project in Unity3D
+   - Port it to Oculus Rift, perhaps?
