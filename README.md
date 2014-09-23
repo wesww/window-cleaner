@@ -12,11 +12,14 @@ Download a playable build for Mac or Windows
 
 Featured in NotGamesFest 2011 http://notgames.colognegamelab.com/past.html
 
-Written up by Matteo Bittanti for GameScenes http://www.gamescenes.org/2011/06/art-game-wesley-wilsons-window-cleaner-2011.html
+Written up by Matteo Bittanti for GameScenes 
+    - http://www.gamescenes.org/2011/06/art-game-wesley-wilsons-window-cleaner-2011.html
 
-More: https://www.google.com/search?q=let's+play+window+cleaner&tbm=vid
+Etc: 
+    - https://www.google.com/search?q=let's+play+window+cleaner&tbm=vid
 
 ####Getting Started:
 Download Unity3D from unity3d.com
 Download this project
 Launch project in Unity3D
+I keep meaning to make an Oculus Rift version, maybe someone else can get on top of that
