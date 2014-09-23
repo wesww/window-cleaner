@@ -8,6 +8,9 @@ Download a playable build for Mac or Windows
    - http://wesww.com/WindowCleaner_Mac.zip 
    - http://wesww.com/WindowCleaner_Win.zip
 
+Trailer
+   - http://vimeo.com/24996741
+
 ###Press:
    - Featured in NotGamesFest 2011 in Cologne
    - http://notgames.colognegamelab.com/past.html
