@@ -9,14 +9,12 @@ Download a playable build for Mac or Windows
    - http://wesww.com/WindowCleaner_Win.zip
 
 ###Press:
-
-Featured in NotGamesFest 2011 http://notgames.colognegamelab.com/past.html
-
-Written up by Matteo Bittanti for GameScenes 
-    - http://www.gamescenes.org/2011/06/art-game-wesley-wilsons-window-cleaner-2011.html
-
-Etc: 
-    - https://www.google.com/search?q=let's+play+window+cleaner&tbm=vid
+   - Featured in NotGamesFest 2011 in Cologne
+   - http://notgames.colognegamelab.com/past.html
+   - Written up by Matteo Bittanti for GameScenes
+   - http://www.gamescenes.org/2011/06/art-game-wesley-wilsons-window-cleaner-2011.html
+   - Some folks love really out there simulation games
+   - https://www.google.com/search?q=let's+play+window+cleaner&tbm=vid
 
 ####Getting Started:
 Download Unity3D from unity3d.com
