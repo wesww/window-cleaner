@@ -5,8 +5,8 @@ Project source code for the game Window Cleaner, by Wesley Wilson. Built with Un
 Window Cleaner is an interactive videogame with a strong focus on ambience and environmental design. It has exhibited in Germany, New York, and Chicago, and has received some acclaim from the weirder (mostly German) game critics.
 
 Download a playable build for Mac or Windows
-   - http://wesww.com/WindowCleaner_Mac.zip 
-   - http://wesww.com/WindowCleaner_Win.zip
+   - https://github.com/wesww/window-cleaner/raw/master/Mower_Mac.zip 
+   - https://github.com/wesww/window-cleaner/raw/master/Mower_Win.zip
 
 Trailer
    - http://vimeo.com/24996741
